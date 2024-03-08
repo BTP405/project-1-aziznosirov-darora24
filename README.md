@@ -10,7 +10,8 @@
     - Installation Instructions: The library or dependency was installed through PyCharm, just like you would install any library in the IDE.
 ## 3. Usage
     - Examples: Include examples or code snippets to demonstrate how to use your project.
-    The program starts by the program displaying 5 options and for you to enter your choice:
+    
+    The program starts by displaying 5 options and for you to enter your choice:
     
     Task Manager Menu:
     1. Create a task
@@ -33,14 +34,17 @@
     When user presses 5 program terminates.
     
     - Configuration: Explain any configuration options or settings users might need to know about.
+    
 ## 4. Features
     - List of Features: Outline the main features and functionalities of your project.
+    The features are as basic as it can get. Adding a task, displaying tasks, updating a task's due date, and deleting a task.
 ## 5. Contributing
     - Guidelines: Explain how others can contribute to your project, including information on submitting bug reports, feature requests, or code contributions.
     - Code Style: If applicable, provide guidelines or references to your code style.
 ## 6. Credits
-    - Authors: List the authors or contributors of the project.
-    - Acknowledgments: Mention any individuals or resources that helped inspire or support your project.
+    - Authors: Aziz Nosirov, 
+    - Acknowledgments: https://www.youtube.com/watch?v=eDXX5evRgQw&t=861s
+    
 ## 7. License
     - License Information: Specify the license under which your project is distributed.
 ## 8. Additional Sections (Optional)
