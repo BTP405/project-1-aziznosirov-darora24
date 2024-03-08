@@ -45,6 +45,17 @@ def update_due_date(conn, task_id, due_date):
     except pyodbc.Error as e:
         print("Error updating due date for task:", e)
 
+#Function to delete a task
+def delete_task(conn, task_id):
+    try:
+        cursor = conn.cursor()
+        cursor.execute("DELETE FROM Tasks WHERE TaskID=?", (task_id,))
+        conn.commit()
+        print("Task deleted successfully.")
+    except pyodbc.Error as e:
+        print("Error deleting task:", e)
+
+
 
 def main():
     conn = connect_to_database()
