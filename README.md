@@ -39,14 +39,25 @@
     - List of Features: Outline the main features and functionalities of your project.
     The features are as basic as it can get. Adding a task, displaying tasks, updating a task's due date, and deleting a task.
 ## 5. Contributing
-    - Guidelines: Explain how others can contribute to your project, including information on submitting bug reports, feature requests, or code contributions.
-    - Code Style: If applicable, provide guidelines or references to your code style.
+    - Guidelines: Individuals can adhere to the following guidelines in order to contribute to the 
+    Task Manager project:
+    Bug Reports: Create a thorough bug report that includes instructions on how to reproduce the issue
+    if you come across any bugs or other problems.
+    Feature Suggestions: Make recommendations for new features or improvements by clearly outlining the
+    intended functionality.
+    Code Contributions: Make sure that all coding standards and guidelines are followed when submitting
+    code through pull requests on the project's repository.
+
+    - Code Style: 
+    The Task Manager project follows the PEP 8 style guide for Python code. Contributors are encouraged
+    to maintain uniformity in coding style, variable naming conventions, and documentation processes.
+
 ## 6. Credits
-    - Authors: Aziz Nosirov, 
+    - Authors: Aziz Nosirov, Devanshi Arora
     - Acknowledgments: https://www.youtube.com/watch?v=eDXX5evRgQw&t=861s
     
 ## 7. License
-    - License Information: Specify the license under which your project is distributed.
+    - License Information: The MIT License is used to distribute the Task Manager project. According to the terms of the MIT License, users are free to use, modify, and distribute the software.
 ## 8. Additional Sections (Optional)
     - FAQ: Include frequently asked questions and their answers.
     - Troubleshooting: Provide solutions to common issues or troubleshooting tips.
